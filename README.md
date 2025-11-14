@@ -41,6 +41,7 @@ b.  KCL:
 CIRCUIT DIAGRAM:
 
 $$V=V_{30\Omega}+V_{50\Omega+V100\Omega}$$
+$$V=V_{30\Omega}+V_{50\Omega+V100\Omega}$$
 
 CIRCUIT DIAGRAM:
 
